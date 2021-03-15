@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Minha Prova</string>
+    <string name="button_3">Botão 3</string>
+    <string name="button_2">Botão 2</string>
+    <string name="button_1">Botão 1</string>
+    <string name="button_4">Botão 4</string>
+    <string name="textview_1">Texto</string>
+</resources>
